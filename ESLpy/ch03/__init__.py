@@ -1,0 +1,1 @@
+from .linearModel import LeastSquare
